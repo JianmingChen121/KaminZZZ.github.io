@@ -2,7 +2,7 @@
 This is He Zhenan's personal [homepage](https://KaminZZZ.github.io/).
 
 ## A short introduction
-I received the Ph.D. degree in electrical and computer engineering from Oklahoma State University, Stillwater, USA in 2014. Before that, he got the B.E. degree in automation from the University of Science and Technology Beijing, China in 2008, and M.E. degree from Oklahoma State University, Stillwater, USA in 2011. He is currently an Associate Professor at the College of Computer Science, Sichuan University, Chengdu, China. His research focuses on intelligent optimization and learning using evolutionary computation approaches.
+I received the Ph.D. degree in electrical and computer engineering from Oklahoma State University, Stillwater, USA in 2014. Before that, I got the B.E. degree in automation from the University of Science and Technology Beijing, China in 2008, and M.E. degree from Oklahoma State University, Stillwater, USA in 2011. I am currently an Associate Professor at the College of Computer Science, Sichuan University, Chengdu, China. His research focuses on intelligent optimization and learning using evolutionary computation approaches.
 
 PROFILE:
 * Highly self-motivated researcher. 
