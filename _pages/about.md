@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify;"> 
-I received the Ph.D. degree in electrical and computer engineering from Oklahoma State University, Stillwater, USA in 2014. Before that, I got the B.E. degree in automation from the University of Science and Technology Beijing, China in 2008, and M.E. degree from Oklahoma State University, Stillwater, USA in 2011. I am currently an Associate Professor at the College of Computer Science, Sichuan University, Chengdu, China.
+I received the Ph.D. degree in electrical and computer engineering from Oklahoma State University, Stillwater, USA in 2014. Before that, I got the B.E. degree in automation from the University of Science and Technology Beijing, China in 2008, and M.E. degree from Oklahoma State University, Stillwater, USA in 2011. I am currently a Professor at the College of Computer Science, Sichuan University, Chengdu, China.
 </p>
 
 <p style="text-align:justify;"> 
