@@ -13,8 +13,8 @@ We focus on the application of intelligent data processing, evolutionary computa
 **Chenyang Li** (2022, co-advised with [Gary G. Yen](https://experts.okstate.edu/gyen)) Dynamic Multi-objective Optimization Algorithm, Robust Optimization<br>
 **Lei Liu** (2022, co-advised with [Gary G. Yen](https://experts.okstate.edu/gyen)) Neural Architecture Search, Evolutionary Computation<br>
 
-<hr> 
-**Master Students**
+<hr/> 
+**Master's Students**
 
 **Shanlin Jiang** (2020) Multi-scenario Optimization Problem，Evolutionary Computation<br>
 **Junzhe Xu** (2020) Zero-shot Learning<br>
@@ -25,7 +25,7 @@ We focus on the application of intelligent data processing, evolutionary computa
 **Zhaohui Yang** (2022) Deep Learning<br>
 **Dinglin Shen** (2022) Large-scale Multi-objective Optimization Problem<br>
 
-<hr> 
+<hr/> 
 **Alumni**
 
 **Zhenyou Heng** (Masters of 2018-2021)<br>
