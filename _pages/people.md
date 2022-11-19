@@ -30,7 +30,7 @@ We focus on the application of intelligent data processing, evolutionary computa
 <hr/> 
 ## Alumni
 
-**Zhenyou Heng** (Master's of 2018-2021)<br>
+**Youheng Zhen** (Master's of 2018-2021)<br>
 **Jiahui Duan** (Master's of 2019-2022), Now at Huawei Noah’s Ark Lab<br>
 **Haoyuan Zeng** (Master's of 2019-2022), Now at City University of Hong Kong<br>
 **Yuanjie Yang** (Master's of 2019-2022)<br>
