@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "He Zhenan"
+title                    : "Zhenan He"
 title_separator          : "-"
-name                     : &name "He Zhenan"
-description              : &description "Associate Professor at the College of Computer Science, Sichuan University"
+name                     : &name "Zhenan He"
+description              : &description "Professor, College of Computer Science, Sichuan University"
 url                      : https://KaminZZZ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KaminZZZ.github.io"
@@ -80,9 +80,10 @@ analytics:
 
 # Site Author
 author: 
-  name             : "He Zhenan"
+  name             : "Zhenan He"
   avatar           : "profile_hzn.jpg"
-  bio              : "Professor, the College of Computer Science, Sichuan University"
+  bio              : "Professor, College of Computer Science, Sichuan University"
+  bio2             : "Whatever"
   location         : "Chengdu, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
