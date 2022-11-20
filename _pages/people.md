@@ -8,7 +8,7 @@ author_profile: true
 <p style="text-align:justify;">
 We focus on the application of intelligent data processing, evolutionary computation, and deep learning algorithms in industry. The lab has many years of research foundation and rich scientific research accumulation in many cutting-edge major hot scientific problems research, and has conducted many national and provincial level science projects.
 </p>
-<br>
+
 ## Ph.D. Students
 
 **Yidan Zhang** (2022), Natural Language Processing, Neural Architecture Search<br>
