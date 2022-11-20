@@ -18,7 +18,7 @@ We focus on the application of intelligent data processing, evolutionary computa
 <hr/> 
 ## Master's Students
 
-**Shanlin Jiang** (2020), Multi-scenario Optimization Problem，Evolutionary Computation<br>
+**Shanlin Jiang** (2020), Multi-scenario Optimization Problem, Evolutionary Computation<br>
 **Junzhe Xu** (2020), Zero-shot Learning<br>
 **Jianming Chen** (2020), Open Set Recognition<br>
 **Ziqi Tan** (2021), Programming Language Processing<br>
